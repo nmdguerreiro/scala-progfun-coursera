@@ -1,4 +1,8 @@
 target
+.cache
 *.iml
 .idea
 submission
+.DS_Store
+out
+bin
